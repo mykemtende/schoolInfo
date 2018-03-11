@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # schoolInfo
 
 Students JSON REST API
@@ -18,3 +19,6 @@ for a specific student:
 App Tests
 
 $ composer test
+=======
+# schoolInfo - a quick retrieval of students, teachers, subjects, classes informations
+>>>>>>> c5e7be3ef46c39112bd434ca8ea76497e810a1ed
