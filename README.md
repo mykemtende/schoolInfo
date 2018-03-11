@@ -1,11 +1,9 @@
 
-# schoolInfo
-
 # schoolInfo - a quick retrieval of students, teachers, subjects, classes informations
 
 Students JSON RESTFUL API
 
-Open terminal and enter command below:
+use terminal or browser:
 
  $ curl http://127.0.0.1:8000/api/students
 
@@ -16,6 +14,7 @@ for a specific student:
  $ curl http://127.0.0.1:8000/api/students/1
 
 {"id":1,"name":"Ritah Wafula","gender":"Female","age":21,"address":"989-30200","created_at":"2017-12-14 13:02:07","updated_at":"2018-02-03 12:30:19","classroom_id":1,"level_id":1}
+
 
 
 App Tests
